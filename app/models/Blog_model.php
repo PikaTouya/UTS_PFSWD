@@ -1,6 +1,6 @@
 <?php 
 
-class Mahasiswa_model {
+class Blog_model {
     private $dbh; //database handler
     private $stmt; //statement
 
@@ -16,9 +16,9 @@ class Mahasiswa_model {
         }
     }
 
-    public function getAllMahasiswa(){
-        $this->stmt = $this->dbh->prepare('SELECT * FROM mahasiswa');
-        $this->stmt->execute();
-        return $this->stmt->fetchAll(PDO::FETCH_ASSOC);
-    }
+    // public function getAllMahasiswa(){
+    //     $this->stmt = $this->dbh->prepare('SELECT * FROM mahasiswa');
+    //     $this->stmt->execute();
+    //     return $this->stmt->fetchAll(PDO::FETCH_ASSOC);
+    // }
 }

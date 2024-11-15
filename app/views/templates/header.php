@@ -5,9 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Halaman <?=$data['judul']?></title>
     <link href="<?= BASEURL; ?>/css/bootstrap.css" rel="stylesheet">
+    <style>
+      *{
+        box-sizing: content-box;
+      }
+    </style>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary border-bottom" data-bs-theme="grey">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary border-bottom position-fixed w-100 fixed-top" data-bs-theme="">
         <div class="container">
           <a class="navbar-brand" href="<?=BASEURL?>"><b>Vilinux</b></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,10 +24,13 @@
                 <a class="nav-link active" aria-current="page" href="<?=BASEURL?>">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="<?=BASEURL?>/about">About </a>
+                <a class="nav-link active" aria-current="page" href="<?=BASEURL?>/about">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="<?=BASEURL?>/mahasiswa">Mahasiswa </a>
+                <a class="nav-link active" aria-current="page" href="<?=BASEURL?>/blog">Blog</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="<?=BASEURL?>/services">Services</a>
               </li>
             </ul>
             <form class="d-flex" role="search">
