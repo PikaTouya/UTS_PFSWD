@@ -7,10 +7,10 @@
     <div class="col-md-5">
         <div class="card-body text-center fs-6">
             <h4 class="card-title lh-lg">Tentang Kami</h4>
-            <p class="card-text">Perusahaan Vilinux adalah perusahaan inovatif yang berfokus pada pengembangan solusi teknologi terbaik untuk memenuhi kebutuhan bisnis klien kami. Dengan tim ahli yang berpengalaman, kami berkomitmen untuk memberikan layanan berkualitas tinggi dan solusi yang dapat diandalkan.
+            <p class="card-text">Selamat datang di Vilinx, mitra terpercaya Anda dalam menciptakan solusi teknologi inovatif. Kami adalah perusahaan yang berdedikasi untuk mengembangkan aplikasi mobile dan menyediakan layanan berbasis teknologi untuk membantu bisnis Anda mencapai potensi maksimal di era digital.
             </p>  
             <p>
-            Kami percaya bahwa inovasi dan keunggulan adalah kunci kesuksesan, dan kami terus berusaha untuk memperkenalkan produk dan layanan yang memenuhi standar kualitas tertinggi. Hubungi kami hari ini untuk mengetahui lebih lanjut tentang bagaimana kami dapat membantu Anda mencapai tujuan bisnis Anda.</p>
+            Sejak awal berdiri, Vilinux telah bekerja sama dengan berbagai industri untuk menghadirkan solusi digital yang efektif dan mudah diadaptasi. Dengan tim profesional yang terdiri dari pengembang berpengalaman, desainer kreatif, dan ahli teknologi, kami selalu berusaha memberikan hasil terbaik yang sesuai dengan kebutuhan dan visi Anda.</p>
         </div>
     </div>
 </div>

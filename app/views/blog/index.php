@@ -1,4 +1,4 @@
-<!-- <?php $n = 1; ?>
+<!-- <?php $n = 1; ?>c
     <?php foreach ($data['mhs'] as $mhs) :?>
         <tr>
         <th scope="row"><?= $n; $n++?></th>
